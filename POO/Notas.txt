@@ -1,0 +1,18 @@
+La programacion orientada a objetos tiene 5 caracteristicas bien definidas:
+- Clases
+Son basicamente los planos de creacion de algun objeto de la vida real y del
+cual podemos extraer las caracteristicas que mejor lo definen para nuestros 
+propositos. Por ejemplo, una persona, nos interesa su ID, Nombre, Nacimiento,
+Edad, etc.
+
+- Objetos
+Es una instancia de una clase, esta ocupa espacio en la memoria de la computadora
+y además posee atributos definidos, por ejemplo, Nombre = "Benjamin".
+
+- Encapsulamiento
+El objetivo del encapsulamiento es ocultar la información y restringirla al ambito
+del objeto, funcion o metodo y se podra acceder al valor segun su grado de privilegio
+
+
+- Herencia
+- Polimorfismo
