@@ -12,7 +12,14 @@ y además posee atributos definidos, por ejemplo, Nombre = "Benjamin".
 - Encapsulamiento
 El objetivo del encapsulamiento es ocultar la información y restringirla al ambito
 del objeto, funcion o metodo y se podra acceder al valor segun su grado de privilegio
-
+entre objetos
 
 - Herencia
+Es una forma de reutilización de codigo entre clases, existe una clase padre que lleva
+la generalidad de los atributos, por ejemplo, la clase persona, luego existe una clase 
+especializada, por ejemplo Futbolista, el cual tiene sus propios atributos pero además 
+eso posee
+
+
 - Polimorfismo
+
